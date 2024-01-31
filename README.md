@@ -1,3 +1,2 @@
 # 2D Pygame Space Shooter
-
-This is a game I made for a school project using pygame. It is a 2 player space shooter that takes inspiration from the Star Wars series.
+This is a game that I made for a school project. It was created using pygame and concepts such as functions, key inputs, conditional statements, loops, objects etc.
